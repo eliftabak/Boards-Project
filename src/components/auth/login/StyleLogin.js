@@ -38,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
     float: "left",
     width: "40%",
     marginTop: "4%",
-    marginLeft: "3%",
+    marginLeft: "7%",
   },
   copyrightName: {
     marginTop: '40px',

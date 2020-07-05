@@ -12,7 +12,7 @@ export default function Copyright() {
       {"Copyright ©"}
       <Link
         color="inherit"
-        href="https://github.com/OmarAlithawi/Boards-Project"
+        href="https://github.com/eliftabak/Boards-Project"
         target="_blank"
       >
         {"Thinking Hats"}
