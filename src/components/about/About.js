@@ -1,5 +1,5 @@
 import React from "react";
-import Appbar from "../bars/Appbar";
+import Appbar from "../Bars/Appbar";
 import "../../index.css";
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';

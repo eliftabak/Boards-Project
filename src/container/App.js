@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Home from "../components/home/Home";
+import Home from "../components/Home/Home";
 import About from "../components/about/About";
 import BoardRender from "./BoardRender";
 import Login from "../components/auth/login/Login";

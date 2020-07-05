@@ -1,7 +1,7 @@
 import React, { useState , useEffect } from "react";
-import Sidebar from "../components/bars/Sidebar";
+import Sidebar from "../components/Bars/Sidebar";
 import SixHats from "../components/hats/SixHats";
-import useStyles from "../components/home/StyleHome";
+import useStyles from "../components/Home/StyleHome";
 import { Typography } from "@material-ui/core";
 import { useSelector, useDispatch } from "react-redux";
 import { db } from "../components/auth/firebase";

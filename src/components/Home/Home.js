@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Typography, Paper } from "@material-ui/core";
 import { withRouter } from "react-router-dom";
 import firebase from "../auth/firebase";
-import Sidebar from "../bars/Sidebar";
+import Sidebar from "../Bars/Sidebar";
 import useStyles from "./StyleHome";
 import InspoQuotes from "./InspoQuotes";
 
