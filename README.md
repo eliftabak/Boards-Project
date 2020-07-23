@@ -8,3 +8,5 @@ Six Thinking Hats (also known as Edward de Bono’s Six Hats) is a good decision
 This app built with React using Redux and designed with Material UI.
 For back-end used Firebase’s new Cloud Firestore Database.
 
+<iframe src='//gifs.com/embed/thinking-hats-project-VAxRRo' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);'></iframe>
+
